@@ -1,4 +1,6 @@
-![Image](https://github.com/franklenglw/zhongyi/blob/main/Assets/don.png)
+![Image](https://github.com/franklenglw/zhongyi/blob/main/Assets/don.png)  
+-------------软件在右边的Releases中，数据库文件在Asset中。-----------
+
 
 # zhongyi
 中医处方软件免费开源项目，即将上线  
