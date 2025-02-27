@@ -1,9 +1,9 @@
 ![Image](https://github.com/franklenglw/zhongyi/blob/main/Assets/don.png)  
 
------绿色免安装，软件在右边的Releases中，解压即可运行，sql数据库文件在Asset中。------  
-----zy.sql为空数据库，chl.sql为有数据的数据库，可择其一而用之--------   
------配置使用教程在软件自带的pdf文件夹中------------  
-----数据库详细安装和导入参考github上Asset文件夹中的PDF文件--------  
+绿色免安装，软件在右边的Releases中，解压即可运行，sql数据库文件在Asset中。  
+zy.sql为空数据库，chl.sql为有数据的数据库，可择其一而用之  
+配置使用教程在软件自带的pdf文件夹中  
+数据库若有不明之处，详细安装和导入参考github上Asset文件夹中的PDF文件  
 -----------------------------------------------------  
 # zhongyi
 中医处方软件免费开源项目  
