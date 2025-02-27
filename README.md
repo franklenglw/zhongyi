@@ -1,4 +1,4 @@
-（https://github.com/franklenglw/zhongyi/blob/main/Assets/don.jpg）
+![打赏赞助]（https://github.com/franklenglw/zhongyi/blob/main/Assets/don.jpg）
 
 # zhongyi
 中医处方软件免费开源项目，即将上线  
