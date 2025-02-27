@@ -1,4 +1,5 @@
-https://github.com/franklenglw/zhongyi/blob/main/Assets/don.jpg
+（https://github.com/franklenglw/zhongyi/blob/main/Assets/don.jpg）
+
 # zhongyi
 中医处方软件免费开源项目，即将上线  
 清虚内守中医处方  
