@@ -6,6 +6,9 @@ zy.sql为空数据库（方便用户导入自己的数据），chl.sql为有陈�
 本软件支持本地或网络存储。本地存储已在使用教程中说明，网络存储（包括局域网）可自行百度配置。  
 -----------------------------------------------------  
 # zhongyi
+视频地：
+https://www.bilibili.com/video/BV1TfPMegEje/
+
 中医处方软件免费开源项目  
 ---------------
 清虚内守中医处方  
@@ -70,5 +73,3 @@ Source Han Sans CN
 SIL OFL 1.1
 
 免责声明：本软件按「原样」提供，不承担任何使用风险。 
-
-https://www.bilibili.com/video/BV1TfPMegEje/
