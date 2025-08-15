@@ -1,5 +1,7 @@
 ![Image](https://github.com/franklenglw/zhongyi/blob/main/Assets/don.png)  
 
+清虚内守中医处方  
+---------------
 本软件为绿色免安装版，软件在右边的Releases中，下载ZhongYi.zip压缩包，解压后双击zhongyi.exe即可运行。  
 zy.sql为空数据库（方便用户导入自己的数据），chl.sql为有陈先生数据的数据库（具体见下面“数据库说明”），可择其一而用之。    
 -------------------------------
