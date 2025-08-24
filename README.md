@@ -8,7 +8,7 @@ zy.sql为空数据库（方便用户导入自己的数据），chl.sql为有陈�
 <span style="color: red;">《使用教程》</span>在软件自带的tutorial文件夹中。数据库若有不明之处，详细安装和导入可参考github上Asset文件夹中的PDF文件  
 本软件支持本地或网络存储。本地存储已在使用教程中说明，网络存储（包括局域网）可自行百度配置。  
 -----------------------------------------------------  
-# zhongyi
+# 清虚内守中医处方
 视频地址：
 https://www.bilibili.com/video/BV1TfPMegEje/  
 正式版V5.25.0511  百度网盘下载地址：https://pan.baidu.com/s/1L18z11Wcc4X9JBxvICpx9g?pwd=vjbe
