@@ -10,7 +10,8 @@ zy.sql为空数据库（方便用户导入自己的数据），chl.sql为有陈�
 -----------------------------------------------------  
 # 清虚内守中医处方
 视频地址：
-https://www.bilibili.com/video/BV1TfPMegEje/  
+https://www.bilibili.com/video/BV1TfPMegEje/
+视频教程地址：https://space.bilibili.com/42860531
 正式版V5.25.0511  百度网盘下载地址：https://pan.baidu.com/s/1L18z11Wcc4X9JBxvICpx9g?pwd=vjbe
 
 中医处方软件免费开源项目  
