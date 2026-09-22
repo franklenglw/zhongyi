@@ -12,7 +12,6 @@ zy.sql为空数据库（方便用户导入自己的数据），chl.sql为有陈�
 视频地址：
 https://www.bilibili.com/video/BV1TfPMegEje/  
 视频教程地址：https://space.bilibili.com/42860531  
-正式版V5.25.0511  百度网盘下载地址：https://pan.baidu.com/s/1L18z11Wcc4X9JBxvICpx9g?pwd=vjbe  
 正常情况下，不需要特别安装补丁，但对于系统上没有VC++运行库的，可以下载下面这个补丁，安装压缩包里面的VC_redist.x64就可以了，对于Win7系统，如果提示错误0x80070422，则需要安装Windows6.1-KB2999226-x64这个补丁: https://pan.baidu.com/s/1rLk_Cjuqc5u4Ctm1bcEPcQ?pwd=xxi8
 
 中医处方软件免费开源项目  
